@@ -45,6 +45,8 @@
 }
 
 .footer{
+    position: absolute;
+    bottom: 0;
     background-color: #eee;
     font-size: 15px;
     padding: 10px 0;
