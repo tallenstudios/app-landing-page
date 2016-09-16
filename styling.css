@@ -75,6 +75,10 @@
     .featured{
         text-align: center;
     }
+    .footer{
+        position: static;
+        width: auto;
+    }
 }
 /*styling for different device sizes*/
 @media (max-width: 480px){
@@ -99,5 +103,9 @@
         width: 100px;
         height: 35px;
         margin: 10px;
+    }
+    .footer{
+        position: static;
+        width: auto;
     }
 }
