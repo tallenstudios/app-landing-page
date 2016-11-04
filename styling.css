@@ -50,6 +50,8 @@
     margin-right: auto;
     margin-left: auto;
     background-color: #eee;
+    position: absolute;
+    bottom: 0px;
     font-size: 15px;
     padding: 10px 0;
 }
